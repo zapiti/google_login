@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "815006750383",
+    "firebase_url": "https://banco-a27ae.firebaseio.com",
+    "project_id": "banco-a27ae",
+    "storage_bucket": "banco-a27ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815006750383:android:1336df958dac58c7",
+        "android_client_info": {
+          "package_name": "com.dev.nathan.girl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815006750383-5at5ukqc7fkal1qopr7gjok7nm88bfr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.nathan.girl",
+            "certificate_hash": "5eeffda2682ebacde7d4b54f863ac02ddbf488ab"
+          }
+        },
+        {
+          "client_id": "815006750383-g2hneb7uetq95s408tbhv479hd79o7qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRLnvAOimn2XJVNtPhf9i_dQK06VYkeU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815006750383-g2hneb7uetq95s408tbhv479hd79o7qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815006750383:android:8b2a8f5de5736c01",
+        "android_client_info": {
+          "package_name": "com.dev.nathan.gmaillogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815006750383-nk5u31o17qgr6debdbqk3dcsphlqrsqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.nathan.gmaillogin",
+            "certificate_hash": "f301d8687fd27fbbf3e913e110ed083ddb541a48"
+          }
+        },
+        {
+          "client_id": "815006750383-g2hneb7uetq95s408tbhv479hd79o7qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRLnvAOimn2XJVNtPhf9i_dQK06VYkeU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815006750383-g2hneb7uetq95s408tbhv479hd79o7qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815006750383:android:1c77e399e2808bac",
+        "android_client_info": {
+          "package_name": "com.dev.nathan.tomaratcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815006750383-2ker0kbf28274a6rnpt0rd62vp213ut7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.nathan.tomaratcc",
+            "certificate_hash": "5eeffda2682ebacde7d4b54f863ac02ddbf488ab"
+          }
+        },
+        {
+          "client_id": "815006750383-g2hneb7uetq95s408tbhv479hd79o7qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRLnvAOimn2XJVNtPhf9i_dQK06VYkeU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815006750383-g2hneb7uetq95s408tbhv479hd79o7qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
